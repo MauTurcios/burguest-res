@@ -1,0 +1,76 @@
+        <?php
+            	('croko.svg');
+            if (isset($error)) {
+                echo "
+                <script type='text/javascript'>
+                    swal({
+                      title: 'Error!',
+                      text: 'La zona y mesa ya estan reservadas para la hora y fecha que selecciono',
+                      type: 'error',
+                      showCancelButton: false,
+                      confirmButtonClass: 'btn-danger',
+                      confirmButtonText: 'Ok!',
+                      closeOnConfirm: false
+                    },
+                    function(){
+                        window.location.href = 'add_reservacion';
+                    });
+                    </script>
+                </script>
+            ";
+            }else if (isset($alerta) && $alerta == "registro_exitoso") {
+            echo "
+                <script type='text/javascript'>
+                    swal({
+                      title: 'Registro exitoso!',
+                      text: 'Has registrado una reservacion',
+                      type: 'success',
+                      showCancelButton: false,
+                      confirmButtonClass: 'btn-danger',
+                      confirmButtonText: 'Ok!',
+                      closeOnConfirm: false
+                    },
+                    function(){
+                        location.href = index.php/Inicio_controller/add_reservacion_view';
+                    });
+                    </script>
+                </script>
+            ";
+            }else if (isset($alerta) && $alerta == "error_registro") {
+            echo "
+                <script type='text/javascript'>
+                    swal({
+                      title: 'Error en el registro!',
+                      text: 'Se ha registrado un error en guardado',
+                      type: 'error',
+                      showCancelButton: false,
+                      confirmButtonClass: 'btn-danger',
+                      confirmButtonText: 'Ok!',
+                      closeOnConfirm: false
+                    },
+                    function(){
+                        location.href = '".base_url()."index.php/Inicio_controller/add_reservacion_view';
+                    });
+                    </script>
+                </script>
+            ";
+            }else if (isset($alerta) && $alerta == "error") {
+            echo "
+                <script type='text/javascript'>
+                    swal({
+                      title: 'Error en el registro!',
+                      text: 'Se ha registrado un error en guardado normal',
+                      type: 'error',
+                      showCancelButton: false,
+                      confirmButtonClass: 'btn-danger',
+                      confirmButtonText: 'Ok!',
+                      closeOnConfirm: false
+                    },
+                    function(){
+                        location.href = '".base_url()."index.php/Inicio_controller/add_reservacion_view';
+                    });
+                    </script>
+                </script>
+            ";
+            }
+        ?>

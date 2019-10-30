@@ -1,0 +1,210 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cla",
+				"clave"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"usuari",
+				"usuario"
+			],
+			[
+				"Add",
+				"Add_res"
+			],
+			[
+				"no",
+				"no_personas"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"l",
+				"label\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/modulo_clientes/modulo_clientes/application/views/add_client.php",
+		"/C/xampp/htdocs/reservacion/login.html",
+		"/C/xampp/htdocs/modulo_clientes/modulo_clientes/application/views/login.php",
+		"/C/xampp/htdocs/modulo_clientes/modulo_clientes/application/controllers/reservacion_controller.php",
+		"/C/xampp/htdocs/burgues_admin/process/addEmpleados.js",
+		"/C/xampp/htdocs/modulo_clientes/modulo_clientes/application/views/index_view.php",
+		"/C/xampp/htdocs/reservacion/reservacion_view.html",
+		"/C/xampp/htdocs/reservacion/croko.svg",
+		"/C/xampp/htdocs/reservacion/reservacion_view.php",
+		"/C/xampp/htdocs/burgues_admin/empleados.html",
+		"/C/xampp/htdocs/reservacion/res (1).js",
+		"/C/xampp/htdocs/reservacion/res.js",
+		"/C/Users/MauTDrum/Desktop/Ciclo 02-2019/Web y Comercio Electronico II/ñp/parcialWECE/app.js",
+		"/C/Users/MauTDrum/Desktop/Ciclo 02-2019/Web y Comercio Electronico II/ñp/parcialWECE/index.html",
+		"/C/xampp/htdocs/reservacion/res",
+		"/C/xampp/htdocs/modulo_clientes/modulo_clientes/application/views/footer.php",
+		"/C/xampp/htdocs/modulo_clientes/modulo_clientes/application/views/head.php",
+		"/C/xampp/htdocs/modulo_clientes/modulo_clientes/application/views/reservacion_view.php"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "reservacion_view.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

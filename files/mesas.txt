@@ -1,0 +1,25 @@
+Infantil, Mesa1 4
+Infantil, Mesa2 4
+Infantil, Mesa3 4
+Infantil, Mesa4 4
+Infantil, Mesa5 2
+Infantil, Mesa6 2
+Infantil, Mesa7 2
+
+VIP, Mesa1 4
+VIP, Mesa2 4
+VIP, Mesa3 4
+VIP, Mesa4 4
+
+Bar, Mesa1 4
+Bar, Mesa2 3
+Bar, Mesa3 4
+Bar, Mesa4 3
+Bar, Mesa5 6
+Bar, Mesa6 7
+Bar, Mesa7 7
+
+familiar, Mesa1 8
+familiar, Mesa2 8
+familiar, Mesa3 8
+familiar, Mesa4 8
